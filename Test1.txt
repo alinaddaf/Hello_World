@@ -3,4 +3,5 @@ Ann adding a line at the beginning
 another line added by Ann
 yet another line
 finally the last line 
+Line added by Ben here.
 Ben added a line at the end
