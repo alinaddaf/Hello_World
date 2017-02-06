@@ -6,4 +6,8 @@ yet another line
 finally the last line 
 Line added by Ben here.
 Ben added a line at the end
+<<<<<<< HEAD
 This line is added by Ann
+=======
+This line is added by Ben
+>>>>>>> 7aaea40592ac98c2fe6bdf40eaf88082e7c6b2bc
