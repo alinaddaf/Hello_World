@@ -6,11 +6,8 @@ another line added by Ann
 yet another line
 finally the last line 
 Line added by Ben here.
-<<<<<<< HEAD
 All previous lines are replaced with this line (by A) and later changed
-=======
 All previous lines are replaced by A
->>>>>>> f74974644846ea8e607ac7923985f689cf4275f9
 This line has been added by B
 This is a bad piece of software -Ben
 A added some data lines
