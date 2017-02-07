@@ -16,9 +16,6 @@ here for further
 testing of the conflict
 This is a good piece os software -Ann.
 the is Ben's added lin
-<<<<<<< HEAD
 Line added by B then B added more data to create a conflict
-=======
 Line added by B to create a conflict then A added more data
->>>>>>> 01a2faeb095d0252b65e03fd9192eec355557ac8
 and fix the issue
