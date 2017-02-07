@@ -11,7 +11,11 @@ All previous lines are replaced with this line (by A) and later changed
 All previous lines are replaced by A
 This line has been added by B
 This is a bad piece of software -Ben
+<<<<<<< HEAD
 A added some data lines but B also added sme data here
+=======
+A added some data lines and then added more
+>>>>>>> 8f851c85dd406d5bdea8094b20878d3e68ad047b
 here for further
 testing of the conflict
 This is a good piece os software -Ann.
