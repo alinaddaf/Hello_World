@@ -11,3 +11,5 @@ This line is added by Ann
 This is a bad piece of software -Ben
 This is a good piece os software -Ann.
 the is Ben's added lin
+Line added by B to create a conflict
+and fix the issue
