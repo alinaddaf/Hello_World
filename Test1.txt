@@ -6,7 +6,7 @@ another line added by Ann
 yet another line
 finally the last line 
 Line added by Ben here.
-All previous lines are replaced with this line (by A)
+All previous lines are replaced by A
 This line has been added by B
 This is a bad piece of software -Ben
 A added some data lines
