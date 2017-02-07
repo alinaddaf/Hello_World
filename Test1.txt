@@ -1,10 +1,7 @@
 This the Test1 file created by Ann
 New line added by Ben and Ann
-<<<<<<< HEAD
 line added by Ann here. and then quickly modified by B
-=======
 line added by Ann here. An extension to this line by A
->>>>>>> 83aeee9c8da8f9682dfb49a4149488567395b546
 Ann adding a line at the beginning
 another line added by Ann
 yet another line
@@ -14,7 +11,7 @@ All previous lines are replaced with this line (by A) and later changed
 All previous lines are replaced by A
 This line has been added by B
 This is a bad piece of software -Ben
-A added some data lines
+A added some data lines but B also added sme data here
 here for further
 testing of the conflict
 This is a good piece os software -Ann.
