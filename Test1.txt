@@ -10,6 +10,9 @@ THESE LINES ARE ALSO ADDED BY B
 FOR TESTING CONFLICTS
 Ben added a line at the end
 This line is added by Ann
+LINE ADDED BY A FOR TESTING
+ONE MORE
+CONFLICT SITUATION
 This line has been added by B
 This is a bad piece of software -Ben
 A added some data lines
