@@ -8,8 +8,15 @@ finally the last line
 Line added by Ben here.
 Ben added a line at the end
 This line is added by Ann
+<<<<<<< HEAD
 This line has been added by B
 This is a bad piece of software -Ben
+=======
+This is a bad piece of software -Ben 
+A added some data lines
+here for further
+testing of the conflict
+>>>>>>> 7891b456baaa3b4c66c0b97bb7af3000007d8ebe
 This is a good piece os software -Ann.
 the is Ben's added lin
 Line added by B to create a conflict
