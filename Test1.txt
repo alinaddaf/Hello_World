@@ -1,6 +1,7 @@
 This the Test1 file created by Ann
 New line added by Ben and Ann
-line added by Ann here. and thenass
+New line added by B
+line added by Ann here. Part of this line was changed by B
 line added by Ann here.
 Ann adding a line at the beginning
 another line added by Ann
