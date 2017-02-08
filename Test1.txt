@@ -5,3 +5,6 @@ line added by Ann here.
 Ann adding a line at the beginning
 another line added by Ann
 This is the new line made by B
+------------------------------------
+New lline added by A
+Nother line added by A.
