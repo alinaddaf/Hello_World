@@ -6,7 +6,7 @@ New line added by Ben and Ann
 line added by Ann here.
 Ann adding a line at the beginning
 another line added by Ann
-yet another line
+aaaaaaabbbbbbb
 finally the last line 
 Line added by Ben here.
 Ben added a line at the end
